@@ -14,7 +14,6 @@
 
   <!-- الشارات التعريفية -->
   <img src="https://img.shields.io/badge/Computer_Science-Umm_Al--Qura_University-0969da?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Network_Security_%26_Systems-24292f?style=for-the-badge&logo=target" />
   <img src="https://img.shields.io/badge/Status-Seeking_Internships-1f6feb?style=for-the-badge" />
 
   <br /><br />
@@ -23,10 +22,10 @@
   <a href="https://github.com/RVV0L">
     <img src="https://img.shields.io/badge/GITHUB-RVV0L-24292f?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com">
+  <a href="https://www.linkedin.com/in/basil-alotaibi-018414362/">
     <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:abasilotp@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-CONTACT_ME-ea4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
@@ -36,11 +35,11 @@
 
 ## <b>About Me</b>
 
-I'm a **Computer Science student at Umm Al-Qura University** interested in **Network Security, Systems Engineering, and Full-Stack Development**.
+I'm a **Computer Science student at Umm Al-Qura University** interested in **Network Security, and Full-Stack Development**.
 
 I like knowing how things work under the hood before reaching for heavy frameworks.
 
-* **Main stack:** C++, Python, JavaScript/TypeScript, React, Supabase, and Linux.
+* **Main stack:** Java, JavaScript/TypeScript, React, Supabase, and Linux.
 
 ---
 
@@ -48,7 +47,7 @@ I like knowing how things work under the hood before reaching for heavy framewor
 
 ### Languages & Runtimes
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,bash" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,js,ts,bash" />
 </a>
 
 ### Frameworks & Databases
